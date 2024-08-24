@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "rostislaim.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "rostislaim.TaskPlanner.Domain.Models": "1.0.0"
+        },
         "runtime": {
           "rostislaim.TaskPlanner.Domain.Logic.dll": {}
+        }
+      },
+      "rostislaim.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "rostislaim.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "rostislaim.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "rostislaim.TaskPlanner.Domain.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
