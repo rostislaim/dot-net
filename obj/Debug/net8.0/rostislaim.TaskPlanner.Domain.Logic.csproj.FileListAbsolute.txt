@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\bin\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.deps.json
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\bin\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.dll
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\bin\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.pdb
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.sourcelink.json
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.dll
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\rostislaim.TaskPlanner.Domain.Logic.dll
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\rostislaim.TaskPlanner.Domain.Logic.pdb
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner.Domain.Logic\rostislaim.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\rostislaim.TaskPlanner.Domain.Logic.dll
