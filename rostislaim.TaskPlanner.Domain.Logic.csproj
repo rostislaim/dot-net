@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\rostislaim.TaskPlanner.Domain.Models\rostislaim.TaskPlanner.Domain.Models\rostislaim.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>
