@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\bin\Debug\net8.0\rostislaim.TaskPlanner.exe
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\bin\Debug\net8.0\rostislaim.TaskPlanner.deps.json
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\bin\Debug\net8.0\rostislaim.TaskPlanner.runtimeconfig.json
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\bin\Debug\net8.0\rostislaim.TaskPlanner.dll
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\bin\Debug\net8.0\rostislaim.TaskPlanner.pdb
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.AssemblyInfo.cs
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.sourcelink.json
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.dll
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\refint\rostislaim.TaskPlanner.dll
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.pdb
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\rostislaim.TaskPlanner.genruntimeconfig.cache
+C:\Users\Admin\source\repos\rostislaim.TaskPlanner\rostislaim.TaskPlanner\obj\Debug\net8.0\ref\rostislaim.TaskPlanner.dll
