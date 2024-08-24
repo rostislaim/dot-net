@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rostislaim.TaskPlanner.Domain.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+949cefaba1ef03032af7c6789e7b8beb3e5244a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07209b3c9b18d6649ccb3bab57a776009ef6d85d")]
 [assembly: System.Reflection.AssemblyProductAttribute("rostislaim.TaskPlanner.Domain.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rostislaim.TaskPlanner.Domain.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
